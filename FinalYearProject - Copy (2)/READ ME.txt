@@ -1,0 +1,20 @@
+READ ME - Final Year Project = TimeBenderBattle, Merging time travel with FPS.
+The submitted files are the source code for the project completed by Charles Copas - 210369223
+The files include the scripts used to determine logic and data stored for the project, as well as files that store the assets used as well as each scene for each level.
+To run the code download files and you should find an executable file titled FinalYearProject in the build folder included in this material, unity installed is a requirement to run this.
+Alternatively you can load the project using unity and then using the build and run function execute the game and be able to play through it.
+Credits for external tools and assets:
+•	https://assetstore.unity.com/packages/3d/props/weapons/rpg-swords-7056
+•	https://assetstore.unity.com/packages/3d/props/weapons/weapons-free-260492 
+•	Grunts Male.wav by Dirtjm -- https://freesound.org/s/262279/ -- License: Attribution NonCommercial 3.0
+•	Powerup 09.wav by MATRIXXX_ -- https://freesound.org/s/523655/ -- License: Creative Commons 0
+•	Sword Shing 19 by Department64 -- https://freesound.org/s/718800/ -- License: Attribution 4.
+•	Swosh Sword Swing by qubodup -- https://freesound.org/s/59992/ -- License: Creative Commons 0
+•	Gun Shot.wav by Bird_man -- https://freesound.org/s/275151/ -- License: Creative Commons 0
+•	Village Models - https://fertile-soil-productions.itch.io/modular-village-pack
+•	Terrain Models - https://fertile-soil-productions.itch.io/modular-terrain-pack
+•	Dungeon Models - https://kaylousberg.itch.io/kaykit-dungeon-remastered
+•	Health Pack - Pickup health by Quaternius https://poly.pizza/m/ijqVDSeIM5
+•	Animals - https://quaternius.com/packs/ultimateanimatedanimals.html
+•	Enemy - https://kaylousberg.itch.io/kaykit-adventurers
+•	Skyboxes - https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353
